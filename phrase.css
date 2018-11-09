@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://image.freepik.com/vecteurs-libre/fond-de-degrade-de-couleur-multi-pastel_1962-499.jpg");
+    background-size: 100%;
+
+
+    perspective: 800px;
+
+
+}
+#verb{
+    text-align: center;
+    margin-top:5%;
+}
+#reset{
+    text-align:center ;
+    margin-top:5%;
+    margin-bottom:4%;
+
+}
+
+.container-tt{
+    text-align:center;
+}
+.container{
+
+}
+h1{
+    text-align: center;
+
+}
+span{
+    text-align: center;
+    font-size: 30px;
+margin-left: 600px;
+}
